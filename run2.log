@@ -1,0 +1,26 @@
+[07:43:09] INFO     55 entries total, 52 already handled, 3 to process with 3   
+                    parallel workers                                            
+[07:43:10] INFO     Aahun Aahun - Pritam, Neeraj Shridhar…: bot found 'Aahun    
+                    Aahun'                                                      
+[07:43:11] INFO     Aahun Aahun - Pritam, Neeraj Shridhar…: downloading Neeraj  
+                    Shridhar - Aahun Aahun.mp3                                  
+[07:43:13] INFO     Jeene Ke Hain Chaar Din - Sonu Nigam,…: bot found 'Jeene Ke 
+                    Hain Chaar Din (From "Mujhse Shaadi Karogi")'               
+[07:43:14] INFO     Jeene Ke Hain Chaar Din - Sonu Nigam,…: downloading Sonu    
+                    Nigam - Jeene Ke Hain Chaar Din (From _Mujhse Shaadi        
+                    Karogi_).mp3                                                
+[07:43:16] INFO     Hungamaa Ho Gaya - Asha Bhosle, Ariji…: bot found 'Hungamaa 
+                    Ho Gaya (From "Queen")'                                     
+[07:43:17] INFO     Hungamaa Ho Gaya - Asha Bhosle, Ariji…: downloading Asha    
+                    Bhosle - Hungamaa Ho Gaya (From _Queen_).mp3                
+[07:43:38] INFO     OK   Aahun Aahun - Pritam, Neeraj Shridhar, Master Sal… ->  
+                    downloads/Neeraj Shridhar - Aahun Aahun.mp3                 
+[07:43:39] INFO     OK   Hungamaa Ho Gaya - Asha Bhosle, Arijit Singh, Ami… ->  
+                    downloads/Asha Bhosle - Hungamaa Ho Gaya (From _Queen_).mp3 
+[07:43:41] INFO     OK   Jeene Ke Hain Chaar Din - Sonu Nigam, Sunidhi Cha… ->  
+                    downloads/Sonu Nigam - Jeene Ke Hain Chaar Din (From _Mujhse
+                    Shaadi Karogi_).mp3                                         
+0 active | 3 ok | 0 failed ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 55/55 0:00:30 0:00:00
+
+
+Done. downloaded=3 failed=0 skipped=52  log=downloaded_log.json

@@ -1,0 +1,8 @@
+.env
+*.session
+*.session-journal
+downloads/
+downloaded_log.json
+__pycache__/
+.venv/
+.downloader.lock
